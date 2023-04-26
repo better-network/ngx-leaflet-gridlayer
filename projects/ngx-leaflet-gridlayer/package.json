@@ -1,6 +1,6 @@
 {
   "name": "ngx-leaflet-gridlayer",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "This is a library used to easily create grid layers according to the data entered by the user in leaflet maps.",
   "license": "MIT",
   "repository": {
@@ -9,9 +9,10 @@
   },
   "homepage": "https://github.com/better-network/ngx-leaflet-gridlayer/blob/main/README.md",
   "keywords": [
-    "npm",
+    "NPM",
     "MIT",
-    "leaflet"
+    "leaflet",
+    "ngx-leaflet"
   ],
   "author": {
     "name": "Arsen Shkenza",

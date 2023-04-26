@@ -7,7 +7,7 @@ This is a library for angular in support of [@asymmetrik/ngx-leaflet](https://ww
 
 ## Demo
 
-![](https://iili.io/H8MeIcP.gif)
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWMyYWQ4ODJjMzM5NmFkNzM1ZmUwYmM3MDZlOTI1MGE3MmU0YjhhNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4JvLt2nXfdioqqJHOI/giphy-downsized-large.gif)
 
 
 ## Installation

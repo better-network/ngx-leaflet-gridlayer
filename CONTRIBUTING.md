@@ -1,10 +1,10 @@
-Contributing to ngx-leaflet-gridlayer
+## Contributing to ngx-leaflet-gridlayer
 Thank you for your interest in contributing to [Your Angular Library]! We welcome contributions from the community to make our library better.
 
-Code of Conduct
+## Code of Conduct
 Before getting started, please read our Code of Conduct. We expect all contributors to follow this code of conduct in all interactions.
 
-Getting Started
+## Getting Started
 Here are the steps to get started with contributing to our library:
 
 1. Fork the repository on GitHub
@@ -26,8 +26,8 @@ Here are some guidelines to follow when making contributions to our library:
 * Be open to feedback and willing to make changes to your code based on feedback
 * Ensure any dependencies added are compatible with the library's license
 
-Reporting Bugs and Issues
+## Reporting Bugs and Issues
 If you encounter any bugs or issues with our library, please report them by opening a [GitHub issue](https://github.com/ngx-leaflet-gridlayer/issues/new). Please include as much detail as possible, including steps to reproduce the issue, expected behavior, and actual behavior.
 
-Conclusion
+## Conclusion
 Thank you again for your interest in contributing to ngx-leaflet-gridlayer! We appreciate your help in making our library better for everyone.
