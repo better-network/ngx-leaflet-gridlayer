@@ -156,9 +156,9 @@ data= {
 
 Contributions are always welcome!
 
-See `contributing.md` in the repo for more details.
+See [contributing.md](https://github.com/better-network/ngx-leaflet-gridlayer/blob/main/CONTRIBUTING.md) in the repo for more details.
 
-Please adhere to this project's `code of conduct`.
+Please adhere to this project's [code of conduct](https://github.com/better-network/ngx-leaflet-gridlayer/blob/main/CODE_OF_CONDUCT.md).
 
 
 ## License
