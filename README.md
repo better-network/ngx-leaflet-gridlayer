@@ -1,4 +1,5 @@
 
+
 # ngx-leaflet-gridlayer
 
 This is a library for angular in support of [@asymmetrik/ngx-leaflet](https://www.npmjs.com/package/@asymmetrik/ngx-leaflet) to facilitate the process of building grid layers on top of the map and visualize aggregator data on each tile. The library aims to remove the burden of such tasks while keeping the performance and being responsive.
@@ -6,15 +7,17 @@ This is a library for angular in support of [@asymmetrik/ngx-leaflet](https://ww
 
 ## Demo
 
-![](https://im2.ezgif.com/tmp/ezgif-2-bfda0c847b.gif)
+![](https://iili.io/H8MeIcP.gif)
+
+
 ## Installation
 
 Install ngx-leaflet-gridlayer with npm
 
 ```bash
   npm install ngx-leaflet-gridlayer
-  cd my-project
 ```
+
 
 Import 'NgxLeafletGridlayerModule' in the module you are using the map or top module.
 
@@ -34,6 +37,7 @@ import { NgxLeafletGridlayerModule } from 'ngx-leaflet-gridlayer';
 })
 ```
 
+
 In the component where this should be integrated import 'NgxLeafletGridlayerService'.
 
 ```typescript
@@ -51,6 +55,8 @@ onMapReady(map: Map): void {
     this._gridlayerService.createGridLayer(inputData, this.map)
 };
 ```
+
+
 ## Data type
 
 The service should be supplied with data of the following format:
@@ -138,10 +144,13 @@ data= {
   ]
 }
 ```
+
+
 ## Authors
 
 - [@Arsen Shkenza](https://www.linkedin.com/in/arsen-shkenza-a992ba183/)
 - [@Orlando Karamani](https://al.linkedin.com/in/orlando-karamani)
+
 
 ## Contributing
 
@@ -155,4 +164,3 @@ Please adhere to this project's `code of conduct`.
 ## License
 
 See LICENSE in repository for details.
-
